@@ -34,7 +34,7 @@ This project is released under the MIT License.
 
 ## 🤝 Contact
 
-* **Developer:** Rehan Shamim, Priyanshu Tiwari
-* **GitHub:**
-* **Email:**
-* **LinkedIn**
+* **Developer:**
+* lateandlazy     Github- (https://github.com/lateandlazy)
+* pds-37          Github-((https://github.com/pds-37)
+  
